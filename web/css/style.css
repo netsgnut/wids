@@ -442,7 +442,6 @@ div.more-info {
 /* Support Organization */
 div#support_org {
   margin-top: 30px;
-  width: 250px;
 }
 
 div#support_org img {
@@ -452,7 +451,7 @@ div#support_org img {
 
 div#support_org img.spirit {
   width: 250px;
-  margin-right: 0;
+  margin: 0 auto;
 }
 
 /* Footer */
@@ -541,4 +540,3 @@ header#mobile {
     padding: 20px;
   }
 }
-
