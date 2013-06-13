@@ -399,7 +399,6 @@ div#schedule-content table li:before {
 }
 
 div#schedule-content table img.more-info {
-  width: 12px;
   height: 12px;
 }
 
@@ -417,7 +416,6 @@ div#body ul.prizes li {
 
 img.more-info {
   cursor: pointer;
-  width: 15px;
   height: 15px;
 }
 
