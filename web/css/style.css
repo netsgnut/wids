@@ -407,11 +407,15 @@ div#body ul.prizes {
 }
 
 div#body ul.prizes li {
-  display: block;
-  float: left;
+  display: inline-block;
   font-size: 12px;
   line-height: 12px;
   width: 200px;
+  max-height: 240px;
+}
+
+div#body ul.prizes li img {
+  vertical-align: middle;
 }
 
 img.more-info {
