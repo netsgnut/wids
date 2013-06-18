@@ -302,13 +302,12 @@ div#body p a:active
 }
 
 div#body ul {
-  font-family: Georgia, Serif;
+  /*font-family: Georgia, Serif;*/
   font-size: 16px;
 }
 
 div#body ul li {
   line-height: 28px;
-  color: #000000;
 }
 
 div#body aside {
