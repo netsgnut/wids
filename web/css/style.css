@@ -179,7 +179,7 @@ div#ad h5 {
   font-size: 28px;
   line-height: 24px;
   color:#fff;
-  margin:12px 0 12px 0;
+  margin:20px 0;
 }
 
 div#ad p {
@@ -188,7 +188,7 @@ div#ad p {
   color:#fff;
 }
 
-div#ad a#ad-pre-reg {
+div#ad a#ad-action {
   width: 100%;
   padding: 20px 0;
   display: block;
@@ -201,14 +201,14 @@ div#ad a#ad-pre-reg {
   margin-top: 5px;
 }
 
-div#ad a#ad-pre-reg:hover {
+div#ad a#ad-action:hover {
   box-shadow: 0 7px 0 #ccc;
   margin-top: 3px;
   text-decoration: none;
 }
 
 
-div#ad a#ad-pre-reg:active {
+div#ad a#ad-action:active {
   box-shadow: 0 0 0 #ccc;
   margin-top: 10px;
   text-decoration: none;
